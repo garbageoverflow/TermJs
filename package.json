@@ -1,0 +1,11 @@
+{
+  "name": "TermJs",
+  "version": "1.0.0",
+  "description": "A terminal emulator using javascript",
+  "main": "terminal.js",
+  "scripts": {
+    "test": "cd test && index.html"
+  },
+  "author": "garbageoverflow",
+  "license": "MIT"
+}
