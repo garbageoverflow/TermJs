@@ -8,7 +8,7 @@
 
 </div>
 
-TermJS is a simple terminal emulator made in javascript using [node.js](nodejs.org/), using the [child process](https://nodejs.org/api/child_process.html).
+TermJS is a simple terminal emulator made in javascript. 
 
 <details>
   <summary>
