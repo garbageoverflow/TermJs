@@ -15,7 +15,7 @@ TermJS is a simple terminal emulator made in javascript.
      Problems Encountered
     </summary>
 
-    - [ ] making node.js interact with the html file.<sup>[[2]](https://github.com/garbageoverflow/TermJs/blob/main/problems/Issue_1.md)</sup>
+    - making node.js interact with the html file.[[2]](https://github.com/garbageoverflow/TermJs/blob/main/problems/Issue_1.md)
 </details>
 
 <details>
